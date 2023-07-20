@@ -196,6 +196,11 @@ OpenVINO™ NVIDIA GPU plugin is licensed under [Apache License Version 2.0](LIC
 By contributing to the project, you agree to the license and copyright terms therein
 and release your contribution under these terms.
 
+## Third party dependencies 
+OpenVINO™ NVIDIA GPU plugin third party components list is available [here](docs/third-party-programs.txt)
+
+
+
 ## How to Contribute
 We welcome community contributions to `openvino_contrib` repository.
 If you have an idea how to improve the modules, please share it with us.
